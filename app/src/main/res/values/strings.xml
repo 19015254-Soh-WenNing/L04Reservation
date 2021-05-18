@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="etName">Name</string>
+    <string name="etNumber">Mobile No.</string>
+    <string name="etSize">Size of Group</string>
+    <string name="cbSmoke">Smoking Area</string>
+    <string name="btnCfm">Confirm Booking</string>
+    <string name="tvTitle">Reservation App</string>
+    <string name="btnReset">Reset</string>
+    <string name="tvDate">Date: </string>
+</resources>
